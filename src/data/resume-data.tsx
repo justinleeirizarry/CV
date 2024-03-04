@@ -56,7 +56,7 @@ export const RESUME_DATA = {
       badges: [],
       title: "FullStack Developer",
       start: "2023",
-      end: "2024",
+      end: "2023",
       description:
         "• Led the refinement of the main booking system, focusing on enhancing accessibility and implementing responsive design principles on the frontend, alongside a comprehensive backend and database structure refactoring to support new changes. This holistic approach markedly improved user engagement and the overall user experience.\n" +
         "• Overhauled the search and filter functionality within the main booking system, significantly enhancing user navigability and efficiency in finding relevant options.\n" +

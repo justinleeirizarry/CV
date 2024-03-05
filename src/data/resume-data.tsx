@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   summary:
     "Experienced Full Stack Engineer with a proven track record in delivering high-performance web applications. Excels in collaborative environments, continuously adapts to emerging technologies, and committed to project excellence.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "justinleeirizarry.com",
+  personalWebsiteUrl: "https://www.justinleeirizarry.com/",
   contact: {
     email: "justinleeirizarry@gmail.com",
     tel: "+61405542310",
